@@ -17,7 +17,7 @@ export default function Home() {
       {/* Header */}
       <header className="fixed w-full bg-gray-900 text-white py-4 px-8 flex justify-between items-center shadow-md z-50">
         <div className="flex items-center gap-2">
-          <Image src="/images/logo.png" alt="Logo" width={35} height={35} />
+          <Image src="/images/mylogo.png" alt="Logo" width={35} height={35} />
           <span className="text-green-400 font-bold hidden md:inline">Rushda Rasheed</span>
         </div>
         <div className="md:hidden cursor-pointer" onClick={toggleMenu}>

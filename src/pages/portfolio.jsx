@@ -133,14 +133,16 @@ export default function Home() {
       <section id="experience" className="py-20 bg-gray-800 text-white text-center">
         <h2 className="text-3xl font-bold text-green-500 mb-6">Experience</h2>
         <div className="max-w-3xl mx-auto bg-gray-900 p-6 rounded-lg shadow-lg text-left">
-          <h3 className="text-2xl font-semibold">Frontend Developer — Freelance</h3>
+          <h3 className="text-2xl font-semibold text-green-400">React/Next.js Developer | MERN Stack Enthusiast — Freelance</h3>
           <p className="mt-2 text-sm text-gray-400">April 2024 – Present</p>
           <ul className="mt-4 list-disc pl-5 space-y-2 text-gray-300">
-            <li>Developed and optimized web apps using React.js, Next.js, and Tailwind CSS</li>
-            <li>Integrated MongoDB and Node.js for backend functionality</li>
-            <li>Worked on REST APIs, Firebase Auth, and performance improvements</li>
-            <li>Deployed apps using Vercel and Netlify</li>
+            <li>Built responsive and high-performance web applications using React.js, Next.js, and Tailwind CSS</li>
+            <li>Developed full-stack features with Node.js, Express.js, and MongoDB</li>
+            <li>Worked with REST APIs, Firebase Authentication, and JWT for secure user flows</li>
+            <li>Focused on performance optimization, clean code, and scalability</li>
+            <li>Deployed and managed projects using platforms like Vercel and Netlify</li>
           </ul>
+
         </div>
       </section>
 
